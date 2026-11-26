@@ -1,6 +1,6 @@
 [![make.fun bounty](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=funniest-time-machine-warning-label)
 [![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/zp1206849221-sketch/funniest-time-machine-warning-label/rank.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=funniest-time-machine-warning-label)
-[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=funniest-time-machine-warning-label)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/zp1206849221-sketch/funniest-time-machine-warning-label/reward.svg)](https://make.fun/bounty/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151?utm_source=github&utm_medium=readme&utm_campaign=funniest-time-machine-warning-label)
 
 # Funniest Time Machine Warning Label
 
